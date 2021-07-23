@@ -30,7 +30,30 @@
 [Source:&lt;!-- raw HTML omitted --&gt;MAL&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;trailer&#34;&gt;Trailer&lt;/h2&gt;
-&lt;iframe src=&#34;https://www.youtube.com/embed/HOB4GZ1S1Wo&#34; width=&#34;720&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;mystyle.css&#34;&gt;
+    &lt;style&gt;
+        .video-container {
+    position: relative;
+    padding-bottom: 56.25%;  
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+    &lt;/style&gt;
+&lt;/head&gt;
+
+  &lt;div class=&#34;video-container&#34;&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HOB4GZ1S1Wo&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/html&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;*&lt;a class=&#34;link&#34; href=&#34;https://myanimelist.net/anime/22199/Akame_ga_Kill&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;MyAnimeList&lt;/a&gt;  |  *&lt;a class=&#34;link&#34; href=&#34;https://anilist.co/anime/20613/Akame-ga-Kill&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -73,7 +96,30 @@ Want Your Review To Be Here!&lt;!-- raw HTML omitted --&gt; Write To Our &lt;em&
 [Source:&lt;!-- raw HTML omitted --&gt;MAL&lt;!-- raw HTML omitted --&gt;]&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;trailer&#34;&gt;Trailer&lt;/h2&gt;
-&lt;iframe src=&#34;https://www.youtube.com/embed/R98Q3C4O3yw&#34; width=&#34;720&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;mystyle.css&#34;&gt;
+    &lt;style&gt;
+        .video-container {
+    position: relative;
+    padding-bottom: 56.25%;  
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+    &lt;/style&gt;
+&lt;/head&gt;
+
+  &lt;div class=&#34;video-container&#34;&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/R98Q3C4O3yw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/html&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;*&lt;a class=&#34;link&#34; href=&#34;https://myanimelist.net/anime/5680/K-On&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;MyAnimeList&lt;/a&gt;  |  *&lt;a class=&#34;link&#34; href=&#34;https://anilist.co/anime/5680/KON&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -108,8 +154,30 @@ Want Your Review To Be Here!&lt;!-- raw HTML omitted --&gt; Write To Our &lt;em&
 &lt;p&gt;Summer Pockets is set on an isolated, rural and peaceful island on the Seto Inland Sea called Torishirojima, which has a population of about 2,000 people. The protagonist is Hairi Takahara, a young man not native to the island. Hairi grew up in an urban setting, but after an unpleasant incident, he uses the recent death of his grandmother as an excuse to come to the island to take care of her estate sale. Once there, he gets to know four girls who are the focus of the story. They include Shiroha Naruse, who forgot her summer vacation; Ao Sorakado, who is pursuing the legends of the island; Kamome Kushima, a high-class girl looking for a pirate ship; and Tsumugi Wenders, a younger girl trying to find herself.&lt;/p&gt;
 &lt;p&gt;[Source:Wikipedia]&lt;/p&gt;
 &lt;h2 id=&#34;trailer&#34;&gt;Trailer&lt;/h2&gt;
-&lt;p&gt;&amp;lt;&lt;/p&gt;
-&lt;iframe src=&#34;https://www.youtube.com/embed/EWdTEw7Shog&#34; width=&#34;720&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;mystyle.css&#34;&gt;
+    &lt;style&gt;
+        .video-container {
+    position: relative;
+    padding-bottom: 56.25%;  
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+    &lt;/style&gt;
+&lt;/head&gt;
+
+  &lt;div class=&#34;video-container&#34;&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EWdTEw7Shog&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/html&gt;
+
 &lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;Title:- Summer Pockets&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;

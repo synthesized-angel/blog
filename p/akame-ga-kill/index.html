@@ -122,7 +122,30 @@
 [Source:<!-- raw HTML omitted -->MAL<!-- raw HTML omitted -->]<!-- raw HTML omitted --></p>
 </blockquote>
 <h2 id="trailer">Trailer</h2>
-<iframe src="https://www.youtube.com/embed/HOB4GZ1S1Wo" width="720" height="400" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+<html>
+<head>
+    <link rel="stylesheet" href="mystyle.css">
+    <style>
+        .video-container {
+    position: relative;
+    padding-bottom: 56.25%;  
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+    </style>
+</head>
+
+  <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HOB4GZ1S1Wo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</html>
+
 <blockquote>
 <p>*<a class="link" href="https://myanimelist.net/anime/22199/Akame_ga_Kill"  target="_blank" rel="noopener"
     >MyAnimeList</a>  |  *<a class="link" href="https://anilist.co/anime/20613/Akame-ga-Kill"  target="_blank" rel="noopener"
