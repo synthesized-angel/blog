@@ -1,78 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog - ブログ</title>
-    <link>https://blog.synthesizedangel.com/</link>
-    <description>Recent content on Blog - ブログ</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.synthesizedangel.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Akame Ga Kill</title>
-      <link>https://blog.synthesizedangel.com/post/anime/akamegakill/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.synthesizedangel.com/post/anime/akamegakill/</guid>
-      <description>Overview Type: TV
-Episodes: 24
-Status: Finished Airing
-Aired:Jul 7, 2014 to Dec 15, 2014
-Premiered: Summer 2014
-Broadcast: Mondays at 00:00 (JST)
-Producers: Square Enix, TOHO animation
-Licensors:  Sentai Filmworks
-Studios: White Fox
-Source:Manga
-Genres: Action, Adventure, Drama, Fantasy, Shounen
-Duration: 23 min. per ep.
-Rating: R - 17+ (violence &amp; profanity)
-[Source:MAL] 
-Trailer 
-MyAnimeList | Anilist | FandomSynopsis Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor&amp;rsquo;s inexperience.</description>
-    </item>
-    
-    <item>
-      <title>K-On</title>
-      <link>https://blog.synthesizedangel.com/post/anime/k-on/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.synthesizedangel.com/post/anime/k-on/</guid>
-      <description>Overview Type: TV
-Episodes: 13+26
-Status: Finished Airing
-Aired: Season 1 :- Apr 3, 2009 to Jun 26, 2009 Season 2:- Apr 7, 2010 to Sep 29, 2010
-Premiered: Spring 2009
-Broadcast: Fridays at 01:59 (JST)
-Producers: Pony Canyon, TBS, Movic, Rakuonsha, Animation Do
-Licensors: Bandai Entertainment, Sentai Filmworks
-Studios: Kyoto Animation
-Source: 4-koma manga
-Genres: Music, Slice of Life, Comedy, School
-Duration: 24 min. per ep.
-Rating: PG-13 - Teens 13 or older</description>
-    </item>
-    
-    <item>
-      <title>Summer Pockets</title>
-      <link>https://blog.synthesizedangel.com/post/visual/summerpockets/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.synthesizedangel.com/post/visual/summerpockets/</guid>
-      <description>Overview From the creators of Angel Beats! and CLANNAD, Key, comes their latest emotional, award-winning journey. Follow protagonist Takahara Hairi as he travels to the secluded island Torishirojima, where he rediscovers what it means to enjoy summer vacation. [Source: Steam]
-Description Summer Pockets is set on an isolated, rural and peaceful island on the Seto Inland Sea called Torishirojima, which has a population of about 2,000 people. The protagonist is Hairi Takahara, a young man not native to the island.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://blog.synthesizedangel.com/post/intro/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.synthesizedangel.com/post/intro/</guid>
-      <description>What Is Anime? 
-Anime is hand-drawn and computer animation originating from Japan. In Japan and in Japanese, anime describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan.
-What Is Manga? 
-Manga are comics or graphic novels originating from Japan. Most manga conform to a style developed in Japan in the late 19th century, and the form has a long prehistory in earlier Japanese art.</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Synthesized Angel</title>
+        <link>https://blog.synthesizedangel.com/</link>
+        <description>Recent content on Synthesized Angel</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.synthesizedangel.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Akame Ga Kill</title>
+        <link>https://blog.synthesizedangel.com/p/akame-ga-kill/</link>
+        <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.synthesizedangel.com/p/akame-ga-kill/</guid>
+        <description>&lt;img src="https://images5.alphacoders.com/605/thumb-1920-605794.jpg" alt="Featured image of post Akame Ga Kill" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Type:&lt;!-- raw HTML omitted --&gt; TV&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Episodes:&lt;!-- raw HTML omitted --&gt; 24&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Status: &lt;!-- raw HTML omitted --&gt;Finished Airing&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Aired:&lt;!-- raw HTML omitted --&gt;Jul 7, 2014 to Dec 15, 2014&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Premiered: &lt;!-- raw HTML omitted --&gt;Summer 2014&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Broadcast:&lt;!-- raw HTML omitted --&gt;  Mondays at 00:00 (JST)&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Producers:&lt;!-- raw HTML omitted --&gt; Square Enix, TOHO animation&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Licensors: &lt;!-- raw HTML omitted --&gt; Sentai Filmworks&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Studios:&lt;!-- raw HTML omitted --&gt; White Fox&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Source:&lt;!-- raw HTML omitted --&gt;Manga&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Genres:&lt;!-- raw HTML omitted --&gt; Action, Adventure, Drama, Fantasy, Shounen&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Duration:&lt;!-- raw HTML omitted --&gt; 23 min. per ep.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Rating:&lt;!-- raw HTML omitted --&gt;  R - 17+ (violence &amp;amp; profanity)&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+[Source:&lt;!-- raw HTML omitted --&gt;MAL&lt;!-- raw HTML omitted --&gt;]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;trailer&#34;&gt;Trailer&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/HOB4GZ1S1Wo&#34; width=&#34;720&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;blockquote&gt;
+&lt;p&gt;*&lt;a class=&#34;link&#34; href=&#34;https://myanimelist.net/anime/22199/Akame_ga_Kill&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MyAnimeList&lt;/a&gt;  |  *&lt;a class=&#34;link&#34; href=&#34;https://anilist.co/anime/20613/Akame-ga-Kill&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Anilist&lt;/a&gt; | *&lt;a class=&#34;link&#34; href=&#34;https://akamegakill.fandom.com/wiki/Akame_Ga_Kill!_Wiki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fandom&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;
+&lt;p&gt;Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor&amp;rsquo;s inexperience. Without a strong and benevolent leader, the rest of the nation is left to drown in poverty, strife, and ruin. Though the Night Raid members are all experienced killers, they understand that taking lives is far from commendable and that they will likely face retribution as they mercilessly eliminate anyone who stands in the revolution&amp;rsquo;s way.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;This merry band of assassins&#39; newest member is Tatsumi, a naïve boy from a remote village who had embarked on a journey to help his impoverished hometown and was won over by not only Night Raid&amp;rsquo;s ideals, but also their resolve. Akame ga Kill! follows Tatsumi as he fights the Empire and comes face-to-face with powerful weapons, enemy assassins, challenges to his own morals and values, and ultimately, what it truly means to be an assassin with a cause. 
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;[Written by &lt;!-- raw HTML omitted --&gt;MAL&lt;!-- raw HTML omitted --&gt; Rewrite]&lt;/p&gt;
+&lt;h2 id=&#34;review&#34;&gt;Review&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coming Soon!&lt;br&gt;
+Want Your Review To Be Here!&lt;!-- raw HTML omitted --&gt; Write To Our &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:angel.synthesized@gmail.com&#34; &gt;Mail&lt;/a&gt;&lt;/em&gt; Along Your Desired Username&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>K-On</title>
+        <link>https://blog.synthesizedangel.com/p/k-on/</link>
+        <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.synthesizedangel.com/p/k-on/</guid>
+        <description>&lt;img src="https://images3.alphacoders.com/739/thumb-1920-739597.jpg" alt="Featured image of post K-On" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Type:&lt;!-- raw HTML omitted --&gt; TV&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Episodes:&lt;!-- raw HTML omitted --&gt; 13+26&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Status: &lt;!-- raw HTML omitted --&gt;Finished Airing&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Aired:&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;Season 1 :-&lt;!-- raw HTML omitted --&gt; Apr 3, 2009 to Jun 26, 2009 &lt;!-- raw HTML omitted --&gt;Season 2:- &lt;!-- raw HTML omitted --&gt;Apr 7, 2010 to Sep 29, 2010&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Premiered: &lt;!-- raw HTML omitted --&gt;Spring 2009&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Broadcast:&lt;!-- raw HTML omitted --&gt; Fridays at 01:59 (JST)&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Producers:&lt;!-- raw HTML omitted --&gt; Pony Canyon, TBS, Movic, Rakuonsha, Animation Do&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Licensors: &lt;!-- raw HTML omitted --&gt;Bandai Entertainment, Sentai Filmworks&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Studios:&lt;!-- raw HTML omitted --&gt; Kyoto Animation&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Source:&lt;!-- raw HTML omitted --&gt; 4-koma manga&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Genres:&lt;!-- raw HTML omitted --&gt; Music, Slice of Life, Comedy, School&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Duration:&lt;!-- raw HTML omitted --&gt; 24 min. per ep.&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Rating:&lt;!-- raw HTML omitted --&gt; PG-13 - Teens 13 or older&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+[Source:&lt;!-- raw HTML omitted --&gt;MAL&lt;!-- raw HTML omitted --&gt;]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;trailer&#34;&gt;Trailer&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/R98Q3C4O3yw&#34; width=&#34;720&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;blockquote&gt;
+&lt;p&gt;*&lt;a class=&#34;link&#34; href=&#34;https://myanimelist.net/anime/5680/K-On&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MyAnimeList&lt;/a&gt;  |  *&lt;a class=&#34;link&#34; href=&#34;https://anilist.co/anime/5680/KON&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Anilist&lt;/a&gt; | *&lt;a class=&#34;link&#34; href=&#34;https://k-on.fandom.com/wiki/K-ON!_Wiki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fandom&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;
+&lt;p&gt;A fresh high school year always means much to come, and one of those things is joining a club. Being in a dilemma about which club to join, Yui Hirasawa stumbles upon and applies for the Light Music Club, which she misinterprets to be about playing simple instruments, such as castanets. Unable to play an instrument, she decides to visit to apologize and quit.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Meanwhile, the Light Music Club faces disbandment due to a lack of members. This causes the club members to offer anything, from food to slacking off during club time, in order to convince Yui to join. Despite their efforts, Yui insists on leaving due to her lack of musical experience. As a last resort, they play a piece for Yui, which sparks her fiery passion and finally convinces her to join the club.
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;From then onward, it&amp;rsquo;s just plain messing around with bits and pieces of practice. The members of the Light Music Club are ready to make their time together a delightful one!
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;[Written by &lt;!-- raw HTML omitted --&gt;MAL&lt;!-- raw HTML omitted --&gt; Rewrite]&lt;/p&gt;
+&lt;h2 id=&#34;review&#34;&gt;Review&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coming Soon!&lt;br&gt;
+Want Your Review To Be Here!&lt;!-- raw HTML omitted --&gt; Write To Our &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:angel.synthesized@gmail.com&#34; &gt;Mail&lt;/a&gt;&lt;/em&gt; Along Your Desired Username&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>Summer Pockets</title>
+        <link>https://blog.synthesizedangel.com/p/summer-pockets/</link>
+        <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.synthesizedangel.com/p/summer-pockets/</guid>
+        <description>&lt;img src="https://img5.goodfon.com/wallpaper/nbig/3/d2/summer-pockets-igra-personazhi.jpg" alt="Featured image of post Summer Pockets" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;From the creators of Angel Beats! and CLANNAD, Key, comes their latest emotional, award-winning journey. Follow protagonist Takahara Hairi as he travels to the secluded island Torishirojima, where he rediscovers what it means to enjoy summer vacation.
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;[Source: Steam]&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Summer Pockets is set on an isolated, rural and peaceful island on the Seto Inland Sea called Torishirojima, which has a population of about 2,000 people. The protagonist is Hairi Takahara, a young man not native to the island. Hairi grew up in an urban setting, but after an unpleasant incident, he uses the recent death of his grandmother as an excuse to come to the island to take care of her estate sale. Once there, he gets to know four girls who are the focus of the story. They include Shiroha Naruse, who forgot her summer vacation; Ao Sorakado, who is pursuing the legends of the island; Kamome Kushima, a high-class girl looking for a pirate ship; and Tsumugi Wenders, a younger girl trying to find herself.&lt;/p&gt;
+&lt;p&gt;[Source:Wikipedia]&lt;/p&gt;
+&lt;h2 id=&#34;trailer&#34;&gt;Trailer&lt;/h2&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/EWdTEw7Shog&#34; width=&#34;720&#34; height=&#34;400&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;geolocation *; microphone *; camera *; midi *; encrypted-media *&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;information&#34;&gt;Information&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Title:- Summer Pockets&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Genre:- ADV&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Platform:-PC, iOS, Android, Switch&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Developer:-Key&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Publisher:- Key/Visual Arts (PC, mobile), Prototype (JP/Switch)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Release date:- 29 Jun 2018 (JP/PC), 17 Dec 2018 (JP/iOS), 19 Dec 2018 (JP/Android), 20 Jun 2019 (JP/Switch), 6 Feb2020 (WW/PC)&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;
+&lt;p&gt;Summer Pockets is Key&amp;rsquo;s 13th game, along with other titles such as Kanon, Air, and Clannad. The story is set on a fictional island on the Seto Inland Sea and follows the life of Hairi Takahara, a young man who uses the recent death of his grandmother as an excuse to escape to the island after an unpleasant incident.&lt;/p&gt;
+&lt;h2 id=&#34;review&#34;&gt;Review&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Coming Soon!&lt;br&gt;
+Want Your Review To Be Here!&lt;!-- raw HTML omitted --&gt; Write To Our &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:angel.synthesized@gmail.com&#34; &gt;Mail&lt;/a&gt;&lt;/em&gt; Along Your Desired Username&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>Introduction</title>
+        <link>https://blog.synthesizedangel.com/p/introduction/</link>
+        <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.synthesizedangel.com/p/introduction/</guid>
+        <description>&lt;img src="https://images5.alphacoders.com/741/thumb-1920-741172.jpg" alt="Featured image of post Introduction" /&gt;&lt;h2 id=&#34;what-is-anime&#34;&gt;What Is Anime?&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+Anime is hand-drawn and computer animation originating from Japan. In Japan and in Japanese, anime describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-manga&#34;&gt;What Is Manga?&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+Manga are comics or graphic novels originating from Japan. Most manga conform to a style developed in Japan in the late 19th century, and the form has a long prehistory in earlier Japanese art. The term manga is used in Japan to refer to both comics and cartooning.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-light-novel&#34;&gt;What Is Light Novel?&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+A light novel is a style of Japanese young adult novel primarily targeting high school and middle school students. The term &amp;ldquo;light novel&amp;rdquo; is a wasei-eigo, or a Japanese term formed from words in the English language. Light novels are often called ranobe or, in English, LN.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-visual-novel&#34;&gt;What Is Visual Novel?&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+A visual novel, often abbreviated as VN, is an interactive fiction video game genre, featuring text-based story with narrative style of literature and interactivity aided by static or sprite-based visuals, most often using anime-style art or occasionally live-action stills&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

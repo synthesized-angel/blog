@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visual Novel on Blog - ブログ</title>
+    <title>Visual Novel on Synthesized Angel</title>
     <link>https://blog.synthesizedangel.com/categories/visual-novel/</link>
-    <description>Recent content in Visual Novel on Blog - ブログ</description>
+    <description>Recent content in Visual Novel on Synthesized Angel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.synthesizedangel.com/categories/visual-novel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summer Pockets</title>
-      <link>https://blog.synthesizedangel.com/post/visual/summerpockets/</link>
+      <link>https://blog.synthesizedangel.com/p/summer-pockets/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.synthesizedangel.com/post/visual/summerpockets/</guid>
+      <guid>https://blog.synthesizedangel.com/p/summer-pockets/</guid>
       <description>Overview From the creators of Angel Beats! and CLANNAD, Key, comes their latest emotional, award-winning journey. Follow protagonist Takahara Hairi as he travels to the secluded island Torishirojima, where he rediscovers what it means to enjoy summer vacation. [Source: Steam]
 Description Summer Pockets is set on an isolated, rural and peaceful island on the Seto Inland Sea called Torishirojima, which has a population of about 2,000 people. The protagonist is Hairi Takahara, a young man not native to the island.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://blog.synthesizedangel.com/post/intro/</link>
+      <link>https://blog.synthesizedangel.com/p/introduction/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.synthesizedangel.com/post/intro/</guid>
-      <description>What Is Anime? 
-Anime is hand-drawn and computer animation originating from Japan. In Japan and in Japanese, anime describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan.
-What Is Manga? 
-Manga are comics or graphic novels originating from Japan. Most manga conform to a style developed in Japan in the late 19th century, and the form has a long prehistory in earlier Japanese art.</description>
+      <guid>https://blog.synthesizedangel.com/p/introduction/</guid>
+      <description>What Is Anime? Anime is hand-drawn and computer animation originating from Japan. In Japan and in Japanese, anime describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan.What Is Manga? Manga are comics or graphic novels originating from Japan. Most manga conform to a style developed in Japan in the late 19th century, and the form has a long prehistory in earlier Japanese art.</description>
     </item>
     
   </channel>

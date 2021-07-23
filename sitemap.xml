@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.synthesizedangel.com/post/anime/akamegakill/</loc>
+    <loc>https://blog.synthesizedangel.com/p/akame-ga-kill/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.synthesizedangel.com/categories/anime/</loc>
@@ -11,19 +11,19 @@
     <loc>https://blog.synthesizedangel.com/tags/anime/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.synthesizedangel.com/</loc>
-    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.synthesizedangel.com/categories/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.synthesizedangel.com/post/anime/k-on/</loc>
+    <loc>https://blog.synthesizedangel.com/p/k-on/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.synthesizedangel.com/post/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.synthesizedangel.com/post/visual/summerpockets/</loc>
+    <loc>https://blog.synthesizedangel.com/p/summer-pockets/</loc>
+    <lastmod>2021-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.synthesizedangel.com/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.synthesizedangel.com/tags/</loc>
@@ -35,7 +35,7 @@
     <loc>https://blog.synthesizedangel.com/tags/visual-novel/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.synthesizedangel.com/post/intro/</loc>
+    <loc>https://blog.synthesizedangel.com/p/introduction/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.synthesizedangel.com/categories/light-novel/</loc>
@@ -49,5 +49,13 @@
   </url><url>
     <loc>https://blog.synthesizedangel.com/tags/manga/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.synthesizedangel.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.synthesizedangel.com/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.synthesizedangel.com/search/</loc>
   </url>
 </urlset>

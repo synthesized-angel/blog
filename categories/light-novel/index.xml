@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Light Novel on Blog - ブログ</title>
+    <title>Light Novel on Synthesized Angel</title>
     <link>https://blog.synthesizedangel.com/categories/light-novel/</link>
-    <description>Recent content in Light Novel on Blog - ブログ</description>
+    <description>Recent content in Light Novel on Synthesized Angel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.synthesizedangel.com/categories/light-novel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://blog.synthesizedangel.com/post/intro/</link>
+      <link>https://blog.synthesizedangel.com/p/introduction/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.synthesizedangel.com/post/intro/</guid>
-      <description>What Is Anime? 
-Anime is hand-drawn and computer animation originating from Japan. In Japan and in Japanese, anime describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan.
-What Is Manga? 
-Manga are comics or graphic novels originating from Japan. Most manga conform to a style developed in Japan in the late 19th century, and the form has a long prehistory in earlier Japanese art.</description>
+      <guid>https://blog.synthesizedangel.com/p/introduction/</guid>
+      <description>What Is Anime? Anime is hand-drawn and computer animation originating from Japan. In Japan and in Japanese, anime describes all animated works, regardless of style or origin. However, outside of Japan and in English, anime is colloquial for Japanese animation and refers specifically to animation produced in Japan.What Is Manga? Manga are comics or graphic novels originating from Japan. Most manga conform to a style developed in Japan in the late 19th century, and the form has a long prehistory in earlier Japanese art.</description>
     </item>
     
   </channel>
