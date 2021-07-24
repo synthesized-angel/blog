@@ -6,11 +6,11 @@
     <description>Recent content in Categories on Synthesized Angel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.synthesizedangel.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.synthesizedangel.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anime</title>
       <link>https://blog.synthesizedangel.com/categories/anime/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.synthesizedangel.com/categories/anime/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>Ongoing</title>
       <link>https://blog.synthesizedangel.com/categories/ongoing/</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.synthesizedangel.com/categories/ongoing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upcoming</title>
+      <link>https://blog.synthesizedangel.com/categories/upcoming/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/upcoming/</guid>
       <description></description>
     </item>
     
